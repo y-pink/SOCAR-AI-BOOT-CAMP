@@ -1,1 +1,2 @@
 # SOCAR-AI-BOOT-CAMP
+안녕하세요!
